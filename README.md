@@ -6,6 +6,10 @@ The codes provided makes it possible to reproduce the approach and figures of th
 
 <img src='__Github_Figure_Schema2.png' width="800" />
 
-## Citation
+## Metadata
+Version : 1
 
-L Guillier, E Chaix. Data and model for describing Poxviridae thermal inactivation. https://github.com/lguillier/pox_inactination
+Original Release Date : 18 August 2022
+
+## Citation
+Guillier, L., Chaix, E. 2022. Data and model for describing Poxviridae thermal inactivation, v 1. https://github.com/lguillier/pox_inactivation.
