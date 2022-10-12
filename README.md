@@ -10,4 +10,4 @@ The codes provided makes it possible to reproduce the approach and figures of th
 
 
 ## Citation
-Guillier, L., Chaix, E. 2022. Data and model for describing Poxviridae thermal inactivation, v 1. https://github.com/lguillier/pox_inactivation.
+Guillier, L., Chaix, E. 2022. Data and model for describing Poxviridae thermal inactivation. https://doi.org/10.5281/zenodo.7190491	
