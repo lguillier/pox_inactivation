@@ -11,3 +11,5 @@ The codes provided makes it possible to reproduce the approach and figures of th
 
 ## Citation
 Guillier, L., Chaix, E. 2022. Data and model for describing Poxviridae thermal inactivation. https://doi.org/10.5281/zenodo.7190491	
+
+Chaix, E., Boni, M. Guillier, L., Bertagnoli, S., Mailles, A., Collignon, C., Kooh, P., Ferraris, O., Martin-Latil, S., Manuguerra, J.C, Haddad, N. 2022. Risk of Monkeypox virus (MPXV) transmission through the handling and consumption of food. Microbial Risk Analysis. https://doi.org/10.1016/j.mran.2022.100237 
